@@ -11,7 +11,7 @@
 - Discord.py Dev.
 
 
-2021 GOAL : Master HTML 
+2021 goal : Learn HTML 
 
 
 Wanna Be Friend with me? 
