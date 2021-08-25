@@ -10,9 +10,12 @@
 - Team Kawana 🖤
 - Discord.py Dev.
 
-I'm Interested in using API at discord.py Bot :D
 
-Wanna Be Friend with me? Always Welcome :3
+2021 GOAL : Master HTML 
+
+
+Wanna Be Friend with me? 
+Always Welcome :3
 
 
 
