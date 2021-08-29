@@ -8,14 +8,14 @@
 - He / him
 - Discord : Mash#1004 
 - Team Kawana 🖤
-- Discord.py Dev.
+- Discord.js Dev.
 
 
 2021 goal : Learn HTML 
 
-
-Wanna Be Friend with me? 
-Always Welcome :3
+R.I.P DPY
+ 
+I'm Always Welcome :3
 
 
 
