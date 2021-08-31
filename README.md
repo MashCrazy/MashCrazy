@@ -7,11 +7,9 @@
 
 - He / him
 - Discord : Mash#1004 
-- Team Kawana 🖤
+- Team Kawana (Py, Js, HTML)
 - Discord.js Dev.
 
-
-2021 goal : Learn HTML 
 
 R.I.P DPY
  
