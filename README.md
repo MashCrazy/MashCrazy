@@ -9,7 +9,7 @@
 - Discord : Mash#1004 
 - Team Kawana
 - Discord.js Dev.
-- RIP D.PY & GROOVY
+- RIP D.PY & Groovy
 
 
 
