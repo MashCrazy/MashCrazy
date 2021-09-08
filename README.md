@@ -7,12 +7,12 @@
 
 - He / him
 - Discord : Mash#1004 
-- Team Kawana (Py, Js, HTML)
+- Team Kawana
 - Discord.js Dev.
+- RIP D.PY & GROOVY
 
 
-R.I.P DPY
- 
+
 I'm Always Welcome :3
 
 
