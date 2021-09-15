@@ -1,20 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&animation=fadeIn&color=c99eff&height=300&section=header&text=Mash&fontSize=90)
 
-## ⭐ H- Hi there!
+## ⭐ Hello There :D
 
 
 <br/>
 
-- He / him
-- Discord : Mash#1004 
-- Team Kawana
-- Discord.js Dev.
-- RIP D.PY & Groovy
-
+- ♂️ Call me Mash [He / him]
+- 🌏 Spawned at Earth 14 years ago
+- 🖥️ Discord.Js Dev. 
+- 🌸 KOR / ENG / JAP (+ Chinese?)
+- ❤️ Team Kawana <3
 
 
 I'm Always Welcome :3
 
+My Discord server (KR) : https://discord.gg/ymZTJkqGmZ
 
 
 ## :globe_with_meridians: Connect with me
@@ -23,7 +23,7 @@ I'm Always Welcome :3
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://discord.gg/DSzXh4rmCD" target="_blank">
+<a href="https://discord.gg/ymZTJkqGmZ" target="_blank">
 <img src=https://img.shields.io/badge/Discord-%2324292e.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </a>
 
