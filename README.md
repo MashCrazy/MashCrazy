@@ -1,4 +1,4 @@
-![header](https://media.discordapp.net/attachments/574464056539217940/887698780927950918/KannaGoku.gif)
+![header](https://capsule-render.vercel.app/api?type=Soft&animation=fadeIn&color=c99eff&height=300&section=header&text=Mash&fontSize=90/)
 
 ## ⭐ Hello There :D
 
