@@ -14,7 +14,7 @@
 
 I'm Always Welcome :3
 
-My Discord server (KR) : https://discord.gg/ymZTJkqGmZ
+My Discord server (KR) : https://discord.gg/4t5ZjAvjte
 
 
 ## :globe_with_meridians: Connect with me
@@ -23,7 +23,7 @@ My Discord server (KR) : https://discord.gg/ymZTJkqGmZ
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://discord.gg/ymZTJkqGmZ" target="_blank">
+<a href="https://discord.gg/4t5ZjAvjte" target="_blank">
 <img src=https://img.shields.io/badge/Discord-%2324292e.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </a>
 
