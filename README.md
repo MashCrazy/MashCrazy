@@ -7,7 +7,7 @@
 
 - ♂️ Call me Mash [He / him]
 - 🌏 Spawned at Seoul, South Korea.
-- 🖥️ Discord.Js Dev. 
+- 🖥️ Discord.JS Dev. 
 - 🌸 KOR / ENG / JAP (+ Chinese?)
 - ❤️ Team Kawana <3
 
